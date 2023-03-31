@@ -1,2 +1,2 @@
 # parallel-job-demo
-Repo to demo parallel jobs
+- Repo to demo parallel jobs
